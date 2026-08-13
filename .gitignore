@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+.DS_Store
+.streamlit/secrets.toml
+
+PDFs/
+Product Docs/Credentials for Sanctions Screening Tool.pdf
+data/*.json
+
+
