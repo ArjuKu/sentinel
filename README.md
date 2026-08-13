@@ -69,12 +69,9 @@ Requirements: Python 3.10 or later.
 
 ---
 
-## Deployment
+## Live App
 
-The app is designed to run on Streamlit Community Cloud, connected to a GitHub repository: any commit pushed to `main` is built and published automatically.
-
-1. Push this repository to GitHub.
-2. In Streamlit Community Cloud, **Create app** → select the repo and branch → **Redeploy**.
+Try it here: **[SENTINEL on Streamlit Community Cloud](https://senti-nel.streamlit.app/)**
 
 ---
 
