@@ -45,6 +45,8 @@ Financial institutions and compliance teams must ensure they do not transact wit
 
 The TSFA First Schedule incorporates the UN Taliban and ISIL (Da'esh) / Al-Qaida lists, which are already screened through the UN Consolidated List source. The SG TSFA source therefore contributes the named individuals from Schedule 1, paragraph 2.
 
+<img width="1535" height="848" alt="Image" src="https://github.com/user-attachments/assets/c642e4ee-fbb9-4469-beee-be2a8885a7e0" />
+
 ---
 
 ## Getting Started (Local)
@@ -79,6 +81,8 @@ The app is designed to run on Streamlit Community Cloud, connected to a GitHub r
 ## Updating a Screening List
 
 All source URLs are defined in `config.py` under `SOURCES`, `SOURCE_LABELS`, and `SOURCE_URLS`. Edit the relevant entry and commit — Streamlit Cloud will rebuild automatically.
+
+<img width="1227" height="750" alt="Image" src="https://github.com/user-attachments/assets/a7d5817f-b68e-470f-8df1-1ca92ff36e32" />
 
 ---
 
